@@ -1,4 +1,4 @@
-name: Lobby Fly
+name: LobbyFly
 version: '${project.version}'
 main: org.baipiaocn.lobby_fly.LobbyFly
 commands:
